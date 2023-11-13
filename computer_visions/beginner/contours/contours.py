@@ -23,4 +23,3 @@ def find_contours(image_path):
     cv2.destroyAllWindows()
 
 
-find_contours(r"D:\Projcets\py\assets\beginner\contours\contours.png")
